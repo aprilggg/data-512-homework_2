@@ -15,7 +15,7 @@ The task involves conducting an in-depth analysis of the representation of US ci
 ### Wikipedia Data
 This analysis consist multiple datasets from Wikipia API:
 * The Wikipedia Category:Lists of cities in the United States by state was crawled to generate a list of Wikipedia article pages about US cities from each state. https://en.wikipedia.org/wiki/Category:Lists_of_cities_in_the_United_States_by_state
-* ORES: machine learning system predicted quality scores for each article in the Wikipedia dataset. This data is retrieved by re-using following sample code: https://drive.google.com/file/d/15UoE16s-IccCTOXREjU3xDIz07tlpyrl/view?usp=sharing, https://drive.google.com/file/d/17C9xsmR9U3lJeD52UTbAedlHDetwYsxs/view?usp=sharing. This code is licensed CC-BY: https://creativecommons.org/licenses/by/4.0/
+* ORES: machine learning system predicted quality scores for each article in the Wikipedia dataset. This data is retrieved by re-using following sample code by Dr. David W. McDonald: https://github.com/aprilggg/data-512-homework_2/blob/main/wp_page_info_example.ipynb, https://github.com/aprilggg/data-512-homework_2/blob/main/wp_ores_liftwing_example.ipynb. This code is licensed CC-BY: https://creativecommons.org/licenses/by/4.0/
 
 ### Population and Region Data
 * The US Census Bureau provides updated population estimates for every US state. I will be using the file contains estimated populations of all US states for 2022: https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html 
